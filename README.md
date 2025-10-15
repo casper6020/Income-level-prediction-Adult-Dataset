@@ -1,2 +1,3 @@
-# A comparison between Logistic Regression and XGBoost
-This is an example of how to apply Logistic Regression and XGBoost machine learning model to predict whether the income is less than equal to 50K or higher.
+# Introduction
+Often times, data scientists and researchers lean to advanced machine learning models because of their prediction power. We would like to explore how traditional statistical model like logistic regressions perform against different boosting algorithms. 
+
