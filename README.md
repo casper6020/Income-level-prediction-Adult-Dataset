@@ -13,6 +13,12 @@ Often times, data scientists and researchers lean to advanced machine learning m
 -  Independent Variables: Age, Workclass, Education, Marital Status Etc. 
 -  Target Variable: Income <=50K or >50k
 
+## <img src="https://cdn-icons-png.flaticon.com/128/2172/2172891.png" width=20 /> Model Training
+-  OLS Model
+-  Logistic Regression
+-  Gradient Boosting
+-  Xtreme Gradient Boosting
+
 
 
 
