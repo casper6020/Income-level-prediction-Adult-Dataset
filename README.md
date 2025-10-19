@@ -33,7 +33,6 @@ Here, we applied logistic regression and boosting algorithms to predict whether 
 ## <img src="https://cdn-icons-png.flaticon.com/128/9623/9623606.png" width=20 /> Insights
 - As expected, the boosting algorithms outperformed logistic regression by a lot.
 - The accuracy of XGB was not significantly higher than the accuracy of GB, but the ROC AUC score indicated the XGB model is better at classification. 
-- 
 
 
 
